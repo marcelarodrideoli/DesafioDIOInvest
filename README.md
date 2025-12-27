@@ -3,13 +3,11 @@ Este repositório tem como objetivo aplicar os conceitos de Excel no desenvolvim
 ---
 
 ## 🎯 Objetivos do Projeto 
-
 - Automatizar cálculos financeiros aplicados a FIIs  
 
 ---
 
 ## ⚙️ Funcionalidades da Planilha 
-
 A solução construída apresenta as seguintes funcionalidades:
 
 - Entrada de valores controlados pelo usuário  
@@ -21,7 +19,6 @@ A solução construída apresenta as seguintes funcionalidades:
 
 ---
 ## 🖌️ Identidade Visual
-
 Cores:
 - VERMELHO: #AF2233
 - AMARELO: #FF8D00
@@ -36,7 +33,6 @@ Fontes:
   
 ---
 ## 📃 Variavéis Criadas
-
 - aporte: valor investido mensalmente
 - patrimonio: projeção do valor acumulado no período informado
 - qtd_anos: período informado, em anos
@@ -53,7 +49,6 @@ Fontes:
   
 ---
 ## 🔢 Fórmulas Implementadas  
-
 | Cálculo | Fórmula aplicada |
 |---|---|
 | Sugestão de investimento | salario * 30% |
