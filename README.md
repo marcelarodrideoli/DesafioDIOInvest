@@ -19,7 +19,7 @@ A solução construída apresenta as seguintes funcionalidades:
 
 
 ## 🖌️ Identidade Visual
-###Cores:
+Cores:
 - VERMELHO: #AF2233
 - AMARELO: #FF8D00
 - AZUL MARINHO: #0A0F23
@@ -27,7 +27,7 @@ A solução construída apresenta as seguintes funcionalidades:
 - LARANJA: #F04D07
 - VERDE: #59B093
 
-###Fontes:
+Fontes:
 - Título: Broadway, 16
 - Corpo: Arial Narrow, 12
   
